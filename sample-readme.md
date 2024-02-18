@@ -1,9 +1,9 @@
-# e
-  ##Description
+# Readme Generator
+  ## Description
 
-  e
+  This Readme Generator can quickly create a professional README for a new project.
 
-  ##Table Of Contents
+  ## Table Of Contents
 
   * [Installation](#installation)
 
@@ -18,33 +18,33 @@
   * [Questions](#questions)
 
 
-  ##Installation
+  ## Installation
 
   To install necessary dependencies, run the following command:
 
-  e
+  npm i
 
-  ##Usage
+  ## Usage
 
-  e
+  To use the Readme Generator, you can download or clone this repository.
 
-  ##License
+  ## License
 
   MIT
 
-  ##Contributing
+  ## Contributing
 
-  e
+  Contributor Covenant v2.1
 
-  ##Tests
+  ## Tests
 
   To run tests, run the following command:
 
   
-  e
+  node index.js
   
   
-  ##Questions
+  ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at e. You can find more of my work at my GitHub [e](https://github.com/e/).
+  If you have any questions about the repo, open an issue or contact me directly at qingqingyang@hotmail.co.uk. You can find more of my work at my GitHub [qingh2o](https://github.com/qingh2o/).
    

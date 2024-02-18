@@ -2,11 +2,12 @@
 function generateMarkdown(data) {
   const { userName, email, title, description, license, installation, tests, usage, contributing } = data;
   return `# ${title}
-  ##Description
+
+  ## Description
 
   ${description}
 
-  ##Table Of Contents
+  ## Table Of Contents
 
   * [Installation](#installation)
 
@@ -21,33 +22,35 @@ function generateMarkdown(data) {
   * [Questions](#questions)
 
 
-  ##Installation
+  ## Installation
 
   To install necessary dependencies, run the following command:
 
+  \`\`\`bash
   ${installation}
-
-  ##Usage
+  \`\`\`
+  
+  ## Usage
 
   ${usage}
 
-  ##License
+  ## License
 
   ${license}
 
-  ##Contributing
+  ## Contributing
 
   ${contributing}
 
-  ##Tests
+  ## Tests
 
   To run tests, run the following command:
 
-  
+  \`\`\`bash
   ${tests}
+  \`\`\`
   
-  
-  ##Questions
+  ## Questions
 
   If you have any questions about the repo, open an issue or contact me directly at ${email}. You can find more of my work at my GitHub [${userName}](https://github.com/${userName}/).
    
