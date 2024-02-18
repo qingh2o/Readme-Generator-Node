@@ -55,6 +55,9 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.writeFile(fileName, generateMarkdown(data), (err) => {
+        err ? console.error(err) : console.log('Generating README...');
+    });
 }
 
 // function to initialize program
@@ -63,7 +66,8 @@ function init() {
         .prompt(questions)
         .then((data) => {
             console.log(data);
-        })
+            writeToFile('sample-readme.md', data);
+        });
 }
 
 // function call to initialize program
