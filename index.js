@@ -18,7 +18,7 @@ const questions = [
     {
         type: 'input',
         message: 'What is your project`s name?',
-        name: 'projectName',
+        name: 'title',
     },
     {
         type: 'input',
@@ -61,8 +61,8 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer
         .prompt(questions)
-        .then((answers) => {
-            console.log(answers);
+        .then((data) => {
+            console.log(data);
         })
 }
 
