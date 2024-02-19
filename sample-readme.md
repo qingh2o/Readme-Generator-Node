@@ -1,4 +1,7 @@
 # Readme Generator
+
+  ![GitHub License](http://img.shields.io/badge/License-MIT-blue.svg)
+
   ## Description
 
   This Readme Generator can quickly create a professional README for a new project.
@@ -22,7 +25,9 @@
 
   To install necessary dependencies, run the following command:
 
+  ```bash
   npm i
+  ```
 
   ## Usage
 
@@ -30,7 +35,7 @@
 
   ## License
 
-  MIT
+  This project is licensed under the MIT license.
 
   ## Contributing
 
@@ -40,9 +45,9 @@
 
   To run tests, run the following command:
 
-  
+  ```bash
   node index.js
-  
+  ```
   
   ## Questions
 

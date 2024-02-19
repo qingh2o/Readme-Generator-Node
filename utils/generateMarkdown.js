@@ -3,6 +3,8 @@ function generateMarkdown(data) {
   const { userName, email, title, description, license, installation, tests, usage, contributing } = data;
   return `# ${title}
 
+  ![GitHub License](http://img.shields.io/badge/License-${license}-blue.svg)
+
   ## Description
 
   ${description}
@@ -29,14 +31,14 @@ function generateMarkdown(data) {
   \`\`\`bash
   ${installation}
   \`\`\`
-  
+
   ## Usage
 
   ${usage}
 
   ## License
 
-  ${license}
+  This project is licensed under the ${license} license.
 
   ## Contributing
 
