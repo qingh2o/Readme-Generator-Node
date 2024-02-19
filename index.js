@@ -1,5 +1,4 @@
 const fs = require("fs");
-const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
@@ -66,7 +65,7 @@ function init() {
         .prompt(questions)
         .then((data) => {
             console.log(data);
-            writeToFile('sample-readme.md', data);
+            writeToFile('README.md', data);
         });
 }
 
