@@ -4,7 +4,7 @@
 
   ## Description
 
-  This README Generator can quickly create a professional readme for your project by using user input from the command line.
+  This README Generator can quickly create a professional readme for a project by using user input from the command line.
 
   ## Table Of Contents
 
@@ -42,7 +42,7 @@
 
   ## Contributing
 
-  Please contact me for contribution instructions.
+   Please contact me for contribution instructions.
 
   ## Tests
 
