@@ -36,8 +36,11 @@ function generateMarkdown(data) {
 
   To use the ${title}, you can download or clone this repository.
   To learn more about the ${title} functionality, review the following.
-  
-  ${usage}
+
+  ![Walkthrough Video](./utils/readme_generator.mp4)
+
+  Or [Check out here](${usage})
+
 
   ## License
 

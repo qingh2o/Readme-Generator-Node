@@ -4,7 +4,7 @@
 
   ## Description
 
-  This README Generator can quickly create a professional readme for a project by using user input from the command line.
+  This README Generator application can quickly create a professional readme for a project by using user input from the command line.
 
   ## Table Of Contents
 
@@ -33,8 +33,11 @@
 
   To use the README Generator, you can download or clone this repository.
   To learn more about the README Generator functionality, review the following.
-  
-  https://www.npmjs.com/package/inquirer
+
+  ![Walkthrough Video](./utils/readme_generator.mp4)
+
+  Or [Check out here](https://drive.google.com/file/d/1fBIEErxVUetnwVO0VwD8BHsZ70ZIR-yi/view)
+
 
   ## License
 
@@ -42,7 +45,7 @@
 
   ## Contributing
 
-   Please contact me for contribution instructions.
+  Please contact me for contribution instructions.
 
   ## Tests
 
