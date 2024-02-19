@@ -34,6 +34,9 @@ function generateMarkdown(data) {
 
   ## Usage
 
+  To use the ${title}, you can download or clone this repository.
+  To learn more about the ${title} functionality, review the following.
+  
   ${usage}
 
   ## License
@@ -54,7 +57,7 @@ function generateMarkdown(data) {
   
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at ${email}. You can find more of my work at my GitHub [${userName}](https://github.com/${userName}/).
+  If you have any questions about the repo, open an issue or contact me directly at ${email}. You can find more of my work at GitHub [${userName}](https://github.com/${userName}/).
    
 `;
 }

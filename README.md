@@ -1,10 +1,10 @@
-# Readme Generator
+# README Generator
 
   ![GitHub License](http://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
 
-  This Readme Generator can quickly create a professional README for a new project.
+  This README Generator can quickly create a professional readme for your project by using user input from the command line.
 
   ## Table Of Contents
 
@@ -31,7 +31,10 @@
 
   ## Usage
 
-  To use the Readme Generator, you can download or clone this repository.
+  To use the README Generator, you can download or clone this repository.
+  To learn more about the README Generator functionality, review the following.
+  
+  https://www.npmjs.com/package/inquirer
 
   ## License
 
@@ -39,7 +42,7 @@
 
   ## Contributing
 
-  Contributor Covenant v2.1
+  Please contact me for contribution instructions.
 
   ## Tests
 
@@ -51,5 +54,5 @@
   
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at qingqingyang@hotmail.co.uk. You can find more of my work at my GitHub [qingh2o](https://github.com/qingh2o/).
+  If you have any questions about the repo, open an issue or contact me directly at qingqingyang@hotmail.co.uk. You can find more of my work at GitHub [qingh2o](https://github.com/qingh2o/).
    
