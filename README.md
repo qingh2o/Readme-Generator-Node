@@ -67,7 +67,12 @@ The readme generator application must meet the following critical requirements:
   To check whether the application meets critical requirements, open  [sample-README.md](https://github.com/qingh2o/Readme-Generator-Node/blob/main/sample-README.md) file.
 
   To view walkthrough Demo, click on [Screencastify Video](https://drive.google.com/file/d/1j45LVtyfTx6vV-oW0MSuPXFQ4RXo7bfV/view), or watch the video below.
-  
+
+
+
+  https://github.com/qingh2o/Readme-Generator-Node/assets/144452799/bb49b0c2-a442-4e81-929c-970bdf06604a
+
+
   ## License
 
   This project is licensed under the MIT license.
