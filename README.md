@@ -46,7 +46,7 @@ The readme generator application must meet the following critical requirements:
 
   ## Installation
 
-  To install [Inquirer package](https://www.npmjs.com/package/inquirer), run the following command:
+  To install Inquirer package, run the following command:
 
   ```
   npm i
@@ -59,7 +59,10 @@ The readme generator application must meet the following critical requirements:
   ![Please Note](https://img.shields.io/badge/Please%20Note-red)
 
   ```
-  The application will generate a "sample-README.md" file for you to test. If you want to generate a default "README.md" for your project, just change the file name "sample-README.md" in the "index, js" file to "README.md".
+  The application will generate a "sample-README.md" file for you to test. 
+  If you want to generate a default "README.md" for your project, 
+  just change the file name "sample-README.md" in the "index. js" 
+  file to "README.md".
   ```
   To check whether the application meets critical requirements, open  [sample-README.md](https://github.com/qingh2o/Readme-Generator-Node/blob/main/sample-README.md) file.
 
